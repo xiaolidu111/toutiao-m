@@ -1780,6 +1780,11 @@
     "require-from-string" "^2.0.2"
     "uri-js" "^4.2.2"
 
+"amfe-flexible@^2.2.1":
+  "integrity" "sha512-L2VfvDzoETBjhRptg5u/IUuzHSuxm22JpSRb404p/TBGeRfwWmmNEbB+TFPIP/sS/+pbM18bCFH9QnMojLuPNw=="
+  "resolved" "https://registry.npmmirror.com/amfe-flexible/-/amfe-flexible-2.2.1.tgz"
+  "version" "2.2.1"
+
 "ansi-colors@^4.1.1":
   "integrity" "sha512-JoX0apGbHaUJBNl6yF+p6JAFYZ666/hhCGKN5t9QFjbJQKUU/g8MNbFDbvfrgKXvI1QpZplPOnwIo99lX/AAmA=="
   "resolved" "https://registry.npmmirror.com/ansi-colors/-/ansi-colors-4.1.1.tgz"
@@ -5310,6 +5315,11 @@
     "cssnano-utils" "^3.1.0"
     "postcss-value-parser" "^4.2.0"
 
+"postcss-pxtorem@^6.0.0":
+  "integrity" "sha512-ZRXrD7MLLjLk2RNGV6UA4f5Y7gy+a/j1EqjAfp9NdcNYVjUMvg5HTYduTjSkKBkRkfqbg/iKrjMO70V4g1LZeg=="
+  "resolved" "https://registry.npmmirror.com/postcss-pxtorem/-/postcss-pxtorem-6.0.0.tgz"
+  "version" "6.0.0"
+
 "postcss-reduce-initial@^5.1.0":
   "integrity" "sha512-5OgTUviz0aeH6MtBjHfbr57tml13PuedK/Ecg8szzd4XRMbYxH4572JFG067z+FqBIf6Zp/d+0581glkvvWMFw=="
   "resolved" "https://registry.npmmirror.com/postcss-reduce-initial/-/postcss-reduce-initial-5.1.0.tgz"
@@ -5353,7 +5363,7 @@
   "resolved" "https://registry.npmmirror.com/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   "version" "4.2.0"
 
-"postcss@^7.0.0 || ^8.0.1", "postcss@^8.0.9", "postcss@^8.1.0", "postcss@^8.2.15", "postcss@^8.2.2", "postcss@^8.2.6", "postcss@^8.3.5", "postcss@^8.4.7":
+"postcss@^7.0.0 || ^8.0.1", "postcss@^8.0.0", "postcss@^8.0.9", "postcss@^8.1.0", "postcss@^8.2.15", "postcss@^8.2.2", "postcss@^8.2.6", "postcss@^8.3.5", "postcss@^8.4.7":
   "integrity" "sha512-lg6eITwYe9v6Hr5CncVbK70SoioNQIq81nsaG86ev5hAidQvmOeETBqs7jm43K2F5/Ley3ytDtriImV6TpNiSg=="
   "resolved" "https://registry.npmmirror.com/postcss/-/postcss-8.4.12.tgz"
   "version" "8.4.12"

@@ -4,6 +4,8 @@ import router from './router'
 import store from './store'
 // 加载全局样式
 import './styles/index.less'
+// 动态社渚rem基准值
+import 'amfe-flexible'
 // 加载vant核心组件库
 import Vant from 'vant'
 // 加载vant 全局样式
